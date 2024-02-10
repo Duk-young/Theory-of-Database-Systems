@@ -1,0 +1,32 @@
+23/11/27 04:02:34 INFO SparkEnv: Registering MapOutputTracker
+23/11/27 04:02:34 INFO SparkEnv: Registering BlockManagerMaster
+23/11/27 04:02:34 INFO SparkEnv: Registering BlockManagerMasterHeartbeat
+23/11/27 04:02:35 INFO SparkEnv: Registering OutputCommitCoordinator
+23/11/27 04:02:35 INFO DefaultNoHARMFailoverProxyProvider: Connecting to ResourceManager at cluster-4e7e-m.c.sunlit-descent-405908.internal./10.128.0.2:8032
+23/11/27 04:02:36 INFO AHSProxy: Connecting to Application History server at cluster-4e7e-m.c.sunlit-descent-405908.internal./10.128.0.2:10200
+23/11/27 04:02:37 INFO Configuration: resource-types.xml not found
+23/11/27 04:02:37 INFO ResourceUtils: Unable to find 'resource-types.xml'.
+23/11/27 04:02:37 INFO YarnClientImpl: Submitted application application_1701055843049_0004
+23/11/27 04:02:38 INFO DefaultNoHARMFailoverProxyProvider: Connecting to ResourceManager at cluster-4e7e-m.c.sunlit-descent-405908.internal./10.128.0.2:8030
+23/11/27 04:02:40 INFO GhfsStorageStatistics: Detected potential high latency for operation op_get_file_status. latencyMs=257; previousMaxLatencyMs=0; operationCount=1; context=gs://dataproc-temp-us-central1-560637973105-ue4woyvi/86dd9899-bbc0-4f44-a231-39fe325280e8/spark-job-history
+23/11/27 04:02:41 INFO GoogleCloudStorageImpl: Ignoring exception of type GoogleJsonResponseException; verified object already exists with desired state.
+23/11/27 04:02:41 INFO GhfsStorageStatistics: Detected potential high latency for operation op_mkdirs. latencyMs=188; previousMaxLatencyMs=0; operationCount=1; context=gs://dataproc-temp-us-central1-560637973105-ue4woyvi/86dd9899-bbc0-4f44-a231-39fe325280e8/spark-job-history
+23/11/27 04:02:41 INFO GhfsStorageStatistics: Detected potential high latency for operation op_delete. latencyMs=206; previousMaxLatencyMs=0; operationCount=1; context=gs://dataproc-staging-us-central1-560637973105-tde8oetp/output
+23/11/27 04:02:42 INFO FileInputFormat: Total input files to process : 1
+Top 5 CBSA (CBSA, Admissions):
+ [('35620', 4420897), ('31080', 948003), ('14460', 789461), ('19740', 749504), ('16980', 736556)]
+Lowest admission year for top 5 CBSA ((CBSA, Year), Admissions):
+ [((19740, 2000), 30), ((14460, 2003), 30161), ((35620, 2019), 188250), ((31080, 2019), 26201), ((16980, 2016), 15179)]
+23/11/27 04:06:27 INFO GoogleCloudStorageFileSystem: Successfully repaired 'gs://dataproc-staging-us-central1-560637973105-tde8oetp/output/' directory.
+23/11/27 04:06:27 INFO GhfsStorageStatistics: Detected potential high latency for operation op_delete. latencyMs=216; previousMaxLatencyMs=206; operationCount=2; context=gs://dataproc-staging-us-central1-560637973105-tde8oetp/output/_temporary
+
+
+
+---------------------- Merged Part-* files
+CBSA, Year, Admissions
+19740, 2000, 30
+14460, 2003, 30161
+35620, 2019, 188250
+31080, 2019, 26201
+16980, 2016, 15179
+

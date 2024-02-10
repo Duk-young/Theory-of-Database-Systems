@@ -1,0 +1,269 @@
+CSE532 A5 Dukyoung Eom 111309287
+
+q1.xquery outputs:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<publication-informataion>
+   <year>1975</year>
+   <paper-count>1</paper-count>
+   <average-coauthors>1</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1976</year>
+   <paper-count>1</paper-count>
+   <average-coauthors>1</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1978</year>
+   <paper-count>3</paper-count>
+   <average-coauthors>2</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1979</year>
+   <paper-count>2</paper-count>
+   <average-coauthors>3</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1980</year>
+   <paper-count>3</paper-count>
+   <average-coauthors>2</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1981</year>
+   <paper-count>4</paper-count>
+   <average-coauthors>2.25</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1982</year>
+   <paper-count>7</paper-count>
+   <average-coauthors>3.285714285714285714</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1983</year>
+   <paper-count>1</paper-count>
+   <average-coauthors>7</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1984</year>
+   <paper-count>2</paper-count>
+   <average-coauthors>3</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1985</year>
+   <paper-count>1</paper-count>
+   <average-coauthors>1</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1986</year>
+   <paper-count>2</paper-count>
+   <average-coauthors>7</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1987</year>
+   <paper-count>2</paper-count>
+   <average-coauthors>3</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1988</year>
+   <paper-count>5</paper-count>
+   <average-coauthors>4.8</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1989</year>
+   <paper-count>4</paper-count>
+   <average-coauthors>4</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1990</year>
+   <paper-count>3</paper-count>
+   <average-coauthors>2.666666666666666667</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1991</year>
+   <paper-count>2</paper-count>
+   <average-coauthors>0.5</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1992</year>
+   <paper-count>1</paper-count>
+   <average-coauthors>4</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1993</year>
+   <paper-count>5</paper-count>
+   <average-coauthors>3</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1994</year>
+   <paper-count>14</paper-count>
+   <average-coauthors>3.857142857142857143</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1995</year>
+   <paper-count>9</paper-count>
+   <average-coauthors>3.333333333333333333</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1996</year>
+   <paper-count>4</paper-count>
+   <average-coauthors>4.25</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1997</year>
+   <paper-count>8</paper-count>
+   <average-coauthors>6.75</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1998</year>
+   <paper-count>9</paper-count>
+   <average-coauthors>3.111111111111111111</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>1999</year>
+   <paper-count>7</paper-count>
+   <average-coauthors>3.571428571428571429</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2000</year>
+   <paper-count>4</paper-count>
+   <average-coauthors>3.5</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2001</year>
+   <paper-count>1</paper-count>
+   <average-coauthors>6</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2002</year>
+   <paper-count>9</paper-count>
+   <average-coauthors>2.222222222222222222</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2003</year>
+   <paper-count>5</paper-count>
+   <average-coauthors>2.2</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2004</year>
+   <paper-count>9</paper-count>
+   <average-coauthors>3.444444444444444444</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2005</year>
+   <paper-count>21</paper-count>
+   <average-coauthors>1.952380952380952381</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2006</year>
+   <paper-count>12</paper-count>
+   <average-coauthors>2.25</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2007</year>
+   <paper-count>5</paper-count>
+   <average-coauthors>3</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2008</year>
+   <paper-count>4</paper-count>
+   <average-coauthors>4.75</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2009</year>
+   <paper-count>10</paper-count>
+   <average-coauthors>5.9</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2010</year>
+   <paper-count>13</paper-count>
+   <average-coauthors>5.461538461538461538</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2011</year>
+   <paper-count>5</paper-count>
+   <average-coauthors>6.6</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2012</year>
+   <paper-count>8</paper-count>
+   <average-coauthors>2.75</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2013</year>
+   <paper-count>7</paper-count>
+   <average-coauthors>4.428571428571428571</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2014</year>
+   <paper-count>3</paper-count>
+   <average-coauthors>6</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2015</year>
+   <paper-count>12</paper-count>
+   <average-coauthors>6.166666666666666667</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2016</year>
+   <paper-count>5</paper-count>
+   <average-coauthors>6.2</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2017</year>
+   <paper-count>7</paper-count>
+   <average-coauthors>25.285714285714285714</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2018</year>
+   <paper-count>5</paper-count>
+   <average-coauthors>3.4</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2019</year>
+   <paper-count>5</paper-count>
+   <average-coauthors>13.4</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2020</year>
+   <paper-count>7</paper-count>
+   <average-coauthors>12.571428571428571429</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2021</year>
+   <paper-count>4</paper-count>
+   <average-coauthors>10.75</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2022</year>
+   <paper-count>5</paper-count>
+   <average-coauthors>9.6</average-coauthors>
+</publication-informataion>
+<publication-informataion>
+   <year>2023</year>
+   <paper-count>5</paper-count>
+   <average-coauthors>9</average-coauthors>
+</publication-informataion>
+
+q2.xquery outputs:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<paper>
+   <title>Common Bonds: MIPS, HPS, Two-Level Branch Prediction, and Compressed Code RISC Processor.</title>
+   <coauthor-count>13</coauthor-count>
+</paper>
+
+
+ex2.sql outputs:
+
+<author>Parthasarathy Ranganathan</author>
+<author>Norman P. Jouppi</author>
+<author>James Laudon</author>
+<author>Mark D. Hill</author>
+
+
+ex3.sql outputs:
+
+NAME                        MOST_COAUTHOR_COUNT     MOST_COAUTHOR_PAPER_TITLE                                                                  MOST_COAUTHOR_PAPER                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+--------------------------  ----------------------- ------------------------------------------------------------------------------------------ --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+David A. Patterson 0001     76                      In-Datacenter Performance Analysis of a Tensor Processing Unit.                            <r><inproceedings key="conf/isca/JouppiYPPABBBBB17" mdate="2023-04-13"><author pid="j/NormanPJouppi">Norman P. Jouppi</author><author pid="64/1248">Cliff Young</author><author pid="80/115">Nishant Patil</author><author pid="p/DAPatterson">David A. Patterson 0001</author><author pid="07/5566">Gaurav Agrawal</author><author pid="199/2250">Raminder Bajwa</author><author pid="199/2321">Sarah Bates</author><author pid="199/1734">Suresh Bhatia</author><author pid="199/1806">Nan Boden</author><author pid="39/3054">Al Borchers</author><author pid="96/1710">Rick Boyle</author><author pid="199/2024">Pierre-luc Cantin</author><author pid="199/1711">Clifford Chao</author><author pid="36/235">Chris Clark</author><author pid="199/1810">Jeremy Coriell</author><author pid="199/2073">Mike Daley</author><author pid="199/1990">Matt Dau</author><author pid="d/JeffreyDean">Jeffrey Dean</author><author pid="199/2360">Ben Gelb</author><author pid="199/2380">Tara Vazir Ghaemmaghami</author><author pid="199/1970">Rajendra Gottipati</author><author pid="199/1887">William Gulland</author><author pid="128/5760">Robert Hagmann</author><author pid="82/6933">C. Richard Ho</author><author pid="199/2000">Doug Hogberg</author><author pid="88/5536">John Hu</author><author pid="38/3747">Robert Hundt</author><author pid="199/2112">Dan Hurt</author><author pid="66/10509">Julian Ibarz</author><author pid="199/2329">Aaron Jaffey</author><author pid="199/2117">Alek Jaworski</author><author pid="17/2079">Alexander Kaplan</author><author pid="199/1801">Harshit Khaitan</author><author pid="133/3635">Daniel Killebrew</author><author pid="199/2242">Andy Koch</author><author pid="78/2996">Naveen Kumar</author><author pid="55/2112">Steve Lacy</author><author pid="65/336">James Laudon</author><author pid="74/4292">James Law</author><author pid="199/1907">Diemthu Le</author><author pid="176/5663">Chris Leary</author><author pid="199/1863">Zhuyuan Liu</author><author pid="199/2239">Kyle Lucke</author><author pid="199/1958">Alan Lundin</author><author pid="199/1766">Gordon MacKean</author><author pid="27/232">Adriana Maggiore</author><author pid="199/2340">Maire Mahony</author><author pid="142/8471">Kieran Miller</author><author pid="199/2207">Rahul Nagarajan</author><author pid="95/10690">Ravi Narayanaswami</author><author pid="199/2346">Ray Ni</author><author pid="199/2069">Kathy Nix</author><author pid="26/10565">Thomas Norrie</author><author pid="52/9786">Mark Omernick</author><author pid="199/2254">Narayana Penukonda</author><author pid="37/7190">Andy Phelps</author><author pid="95/1492">Jonathan Ross</author><author pid="117/8543">Matt Ross</author><author pid="199/1755">Amir Salek</author><author pid="199/2115">Emad Samadiani</author><author pid="199/1745">Chris Severn</author><author pid="60/10535">Gregory Sizikov</author><author pid="199/1965">Matthew Snelham</author><author pid="199/2173">Jed Souter</author><author pid="16/1665">Dan Steinberg</author><author pid="199/2333">Andy Swing</author><author pid="78/6003">Mercedes Tan</author><author pid="199/2341">Gregory Thorson</author><author pid="19/1603">Bo Tian</author><author pid="60/3906">Horia Toma</author><author pid="199/2253">Erick Tuttle</author><author pid="08/2793">Vijay Vasudevan</author><author pid="86/3524">Richard Walter</author><author pid="58/3695">Walter Wang</author><author pid="78/5675">Eric Wilcox</author><author pid="45/7113">Doe Hyun Yoon</author><title>In-Datacenter Performance Analysis of a Tensor Processing Unit.</title><pages>1-12</pages><year>2017</year><booktitle>ISCA</booktitle><ee>https://doi.org/10.1145/3079856.3080246</ee><crossref>conf/isca/2017</crossref><url>db/conf/isca/isca2017.html#JouppiYPPABBBBB17</url></inproceedings></r>                                                                                                                                                                
+John L. Hennessy            13                      Common Bonds: MIPS, HPS, Two-Level Branch Prediction, and Compressed Code RISC Processor.  <r><article key="journals/micro/MutluBGJHPRPHMS16" mdate="2017-05-20"><author pid="m/OnurMutlu">Onur Mutlu</author><author pid="118/8172">Rich Belgard</author><author pid="g/ThomasRGross">Thomas R. Gross</author><author pid="j/NormanPJouppi">Norman P. Jouppi</author><author pid="h/JohnLHennessy">John L. Hennessy</author><author pid="57/5741">Steven A. Przybylski</author><author pid="r/ChrisRowen">Chris Rowen</author><author pid="p/YaleNPatt">Yale N. Patt</author><author pid="03/4630">Wen-mei W. Hwu</author><author pid="25/4491">Stephen W. Melvin</author><author pid="00/5562">Michael Shebanow</author><author pid="57/3918">Tse-Yu Yeh</author><author pid="169/8646">Andy Wolfe</author><title>Common Bonds: MIPS, HPS, Two-Level Branch Prediction, and Compressed Code RISC Processor.</title><pages>70-85</pages><year>2016</year><volume>36</volume><journal>IEEE Micro</journal><number>4</number><ee>https://doi.org/10.1109/MM.2016.66</ee><ee>http://doi.ieeecomputersociety.org/10.1109/MM.2016.66</ee><url>db/journals/micro/micro36.html#MutluBGJHPRPHMS16</url></article></r>
